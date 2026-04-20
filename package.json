@@ -1,0 +1,9 @@
+{
+  "name": "azure-demo",
+  "version": "1.0.0",
+  "description": "Simple Azure deployment",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
